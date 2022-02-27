@@ -4,8 +4,8 @@
 
 
 # DisneyPlus
-USER-AGENT,Disney*
-USER-AGENT,Disney+*
+USER-AGENT,Disney*,PROXY
+USER-AGENT,Disney+*,PROXY
 DOMAIN,cdn.registerdisney.go.com,PROXY
 DOMAIN-SUFFIX,adobedtm.com,PROXY
 DOMAIN-SUFFIX,bam.nr-data.net,PROXY
