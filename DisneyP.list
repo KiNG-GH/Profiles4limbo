@@ -4,8 +4,8 @@
 
 
 # DisneyPlus
-USER-AGENT,Disney*,Disney+*,Disney+
-# USER-AGENT,Disney+*,Disney+
+USER-AGENT,Disney*,Disney+
+USER-AGENT,Disney+*,Disney+
 DOMAIN,cdn.registerdisney.go.com,Disney+
 DOMAIN-SUFFIX,adobedtm.com,Disney+
 DOMAIN-SUFFIX,bam.nr-data.net,Disney+
