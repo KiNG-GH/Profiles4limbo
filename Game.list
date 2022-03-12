@@ -1,0 +1,20 @@
+# 内容：Steam
+# 数量：18条
+DOMAIN,steambroadcast.akamaized.net,game
+DOMAIN,steamcdn-a.akamaihd.net,game
+DOMAIN,steamcommunity-a.akamaihd.net,game
+DOMAIN,steampipe.akamaized.net,game
+DOMAIN,steamstore-a.akamaihd.net,game
+DOMAIN,steamusercontent-a.akamaihd.net,game
+DOMAIN,steamuserimages-a.akamaihd.net,game
+DOMAIN-SUFFIX,fanatical.com,game
+DOMAIN-SUFFIX,humblebundle.com,game
+DOMAIN-SUFFIX,playartifact.com,game
+DOMAIN-SUFFIX,steam-chat.com,game
+DOMAIN-SUFFIX,steamcommunity.com,game
+DOMAIN-SUFFIX,steamgames.com,game
+DOMAIN-SUFFIX,steampowered.com,game
+DOMAIN-SUFFIX,steamstat.us,game
+DOMAIN-SUFFIX,steamstatic.com,game
+DOMAIN-SUFFIX,underlords.com,game
+DOMAIN-SUFFIX,valvesoftware.com,game
