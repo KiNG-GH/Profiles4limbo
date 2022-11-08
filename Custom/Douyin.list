@@ -1,6 +1,25 @@
 # 抖音
+# 11/08/2022 更新
 
-DOMAIN-SUFFIX,douyinvod.com,douyin
 DOMAIN-SUFFIX,bytecdn.com,douyin
-DOMAIN-SUFFIX,douyincdn.com,douyin
+DOMAIN-SUFFIX,byted-static.com,douyin
+DOMAIN-SUFFIX,bytedance.com,douyin
+DOMAIN-SUFFIX,bytedance.net,douyin
+DOMAIN-SUFFIX,bytedns.net,douyin
+DOMAIN-SUFFIX,bytednsdoc.com,douyin
+DOMAIN-SUFFIX,bytegoofy.com,douyin
 DOMAIN-SUFFIX,byteimg.com,douyin
+DOMAIN-SUFFIX,bytescm.com,douyin
+DOMAIN-SUFFIX,bytetos.com,douyin
+DOMAIN-SUFFIX,bytexservice.com,douyin
+DOMAIN-SUFFIX,douyin.com,douyin
+DOMAIN-SUFFIX,douyincdn.com,douyin
+DOMAIN-SUFFIX,douyinpic.com,douyin
+DOMAIN-SUFFIX,douyinstatic.com,douyin
+DOMAIN-SUFFIX,douyinvod.com,douyin
+DOMAIN-SUFFIX,feelgood.cn,douyin
+DOMAIN-SUFFIX,iesdouyin.com,douyin
+DOMAIN-SUFFIX,zijieapi.com,douyin
+DOMAIN-SUFFIX,zijieimg.com,douyin
+DOMAIN-SUFFIX,zjbyte.com,douyin
+DOMAIN-SUFFIX,zjcdn.com,douyin
